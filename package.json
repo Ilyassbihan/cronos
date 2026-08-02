@@ -1,7 +1,7 @@
 {
-  "name": "telegraf-intelligence-bot",
-  "version": "1.1.0",
-  "description": "Telegram bot with XposedOrNot breach analytics integration",
+  "name": "xposed-telegraf-bot",
+  "version": "1.0.0",
+  "description": "Telegram intelligence bot using Telegraf.js and XposedOrNot API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
