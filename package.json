@@ -1,7 +1,7 @@
 {
-  "name": "universal-telegraf-bot",
+  "name": "render-telegraf-bot",
   "version": "1.0.0",
-  "description": "Universal Telegram Intelligence Bot built with Telegraf.js",
+  "description": "Telegraf Bot for Render.com Free Tier",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,6 +9,8 @@
   "dependencies": {
     "axios": "^1.7.9",
     "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "telegraf": "^4.16.3"
   }
 }
+
