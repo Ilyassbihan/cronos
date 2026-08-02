@@ -1,12 +1,13 @@
 {
-  "name": "telegraf-bot",
-  "version": "1.0.0",
-  "description": "Telegram bot running on Telegraf.js",
+  "name": "telegraf-intelligence-bot",
+  "version": "1.1.0",
+  "description": "Telegram bot with XposedOrNot breach analytics integration",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "dotenv": "^16.4.5",
     "telegraf": "^4.16.3"
   }
